@@ -1,4 +1,4 @@
-name: Dev Scrape LeekDuck
+name: Scrape LeekDuck
 
 on:
   schedule:
