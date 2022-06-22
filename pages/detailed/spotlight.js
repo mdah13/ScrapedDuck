@@ -16,8 +16,18 @@ function get(url, id, bkp)
                 name: "",
                 canBeShiny: false,
                 image: "",
-                bonus: ""
+                bonus: "",
+                graphic: ""
             };
+
+            const images = dom.window.document.querySelectorAll('img');
+
+            for (let i = 0; i < images.length; i++) {
+                const img = images[i];
+                if (img.alt === "Graphic") {
+                    spotlight.graphic = img.src
+                }
+            }
 
             spotlight.name = content.querySelector(":scope > .pkmn-list-item > .pkmn-name").innerHTML;
             spotlight.canBeShiny = content.querySelector(":scope > .pkmn-list-item > .shiny-icon") != null;
