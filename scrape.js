@@ -4,11 +4,11 @@ const raids = require('./pages/raids')
 const research = require('./pages/research')
 const eggs = require('./pages/eggs')
 
-function main()
-{
-    if (!fs.existsSync('files'))
-    {
+function main() {
+    if (!fs.existsSync('files')) {
         fs.mkdirSync('files');
+    }
+    if (!fs.existsSync('files/temp')) {
         fs.mkdirSync('files/temp');
     }
 
