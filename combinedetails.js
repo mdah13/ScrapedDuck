@@ -17,13 +17,18 @@ function main()
             {
                 if (e.eventID == data.id)
                 {
-                    if (data.type == "research-breakthrough")
-                    {
-                        e.extraData = { breakthrough: data.data }
-                    }
-                    else if (data.type == "pokemon-spotlight-hour")
-                    {
-                        e.extraData = { spotlight: data.data }
+                    switch (e.eventType) {
+                        case "research-breakthrough":
+                            e.extraData = { breakthrough: data.data }
+                            break;
+                        case "pokemon-spotlight-hour":
+                            e.extraData = { spotlight: data.data }
+                            break;
+                        case "community-day":
+                            e.extraData = { communityday: data.data }
+                            break;
+                        default:
+                            break;
                     }
                 }
             });
