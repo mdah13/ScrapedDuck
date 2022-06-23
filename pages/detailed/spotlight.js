@@ -16,7 +16,7 @@ function get(url, id, bkp)
                 name: "",
                 canBeShiny: false,
                 image: "",
-                bonus: "",
+                bonus: [],
                 graphic: ""
             };
 
@@ -35,7 +35,7 @@ function get(url, id, bkp)
 
             var temp = dom.window.document.querySelectorAll('.event-description')[0].innerHTML;
             var split = temp.split("<strong>");
-            spotlight.bonus = split[split.length - 1].split("</strong>")[0];
+            spotlight.bonus.push(split[split.length - 1].split("</strong>")[0]);
 
             fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "pokemon-spotlight-hour", data: spotlight }), err => {
                 if (err) {
