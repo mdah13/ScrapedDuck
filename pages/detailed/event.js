@@ -9,8 +9,6 @@ function get(url, id, bkp) {
         })
             .then((dom) => {
 
-                const content = dom.window.document.querySelectorAll('.pkmn-list-flex')[0];
-
                 var event = {
                     name: "",
                     canBeShiny: false,
@@ -29,23 +27,28 @@ function get(url, id, bkp) {
                     }
                 }
 
-                pokemons = content.querySelectorAll(".pkmn-name");
+                var bonuses = dom.window.document.querySelectorAll('.bonus-text');
 
-                names = []
-                for (let i = 0; i < pokemons.length; i++) {
-                    const pokeName = pokemons[i];
-                    names.push(pokeName.innerHTML)
+                for (let i = 0; i < bonuses.length; i++) {
+                    const bonus = bonuses[i];
+                    event.bonus.push("-" + bonus.textContent)
                 }
 
-                event.name = names.join(', ')
-                event.canBeShiny = content.querySelector(":scope > .pkmn-list-item > .shiny-icon") != null;
-                event.image = content.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
+                var content = dom.window.document.querySelectorAll('.pkmn-list-flex')[0];
+                if (content != null) {
+                    pokemons = content.querySelectorAll(".pkmn-name");
+                    names = []
+                    for (let i = 0; i < pokemons.length; i++) {
+                        const pokeName = pokemons[i];
+                        names.push(pokeName.innerHTML)
+                    }
+    
+                    event.name = names.join(', ')
+                }
 
-                var temp = dom.window.document.querySelectorAll('.event-description')[0].innerHTML;
-                var split = temp.split("<strong>");
-                event.bonus.push(split[split.length - 1].split("</strong>")[0]);
 
-                fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "pokemon-spotlight-hour", data: event }), err => {
+
+                fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "event", data: event }), err => {
                     if (err) {
                         console.error(err);
                         return;
@@ -54,7 +57,7 @@ function get(url, id, bkp) {
             }).catch(_err => {
                 for (var i = 0; i < bkp.length; i++) {
                     if (bkp[i].eventID == id) {
-                        fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "pokemon-spotlight-hour", data: bkp[i].extraData }), err => {
+                        fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "event", data: bkp[i].extraData }), err => {
                             if (err) {
                                 console.error(err);
                                 return;
