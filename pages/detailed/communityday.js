@@ -11,7 +11,7 @@ function get(url, id, bkp) {
 
                 var content = dom.window.document.querySelector('.page-content').childNodes;
 
-                var communityday = {
+                var event = {
                     name: "",
                     image: "",
                     bonus: [],
@@ -40,24 +40,33 @@ function get(url, id, bkp) {
                 for (let i = 0; i < images.length; i++) {
                     const img = images[i];
                     if (img.alt === "Graphic") {
-                        communityday.graphic = img.src
+                        event.graphic = img.src
+                        break
                     }
                 }
 
                 if (spawnList != null) {
-                    communityday.name = spawnList.querySelector(":scope > .pkmn-list-item > .pkmn-name").innerHTML;
-                    communityday.image = spawnList.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
+                    pokemons = spawnList.querySelectorAll(".pkmn-name");
+
+                    names = []
+                    for (let i = 0; i < pokemons.length; i++) {
+                        const pokeName = pokemons[i];
+                        names.push(pokeName.innerHTML)
+                    }
+
+                    event.name = names.join(', ')
+                    event.image = spawnList.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
                 }
 
                 var bonuses = dom.window.document.querySelectorAll('.bonus-text');
 
                 for (let i = 0; i < bonuses.length; i++) {
                     const bonus = bonuses[i];
-                    communityday.bonus.push(bonus.textContent)
+                    event.bonus.push("-" + bonus.textContent)
                 }
 
 
-                fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "community-day", data: communityday }), err => {
+                fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "community-day", data: event }), err => {
                     if (err) {
                         console.error(err);
                         return;
