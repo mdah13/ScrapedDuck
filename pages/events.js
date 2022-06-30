@@ -18,7 +18,11 @@ function get() {
 
                     events.forEach(e => {
                         const itemLink = e.querySelector(":scope > .event-item-link")
-                        var heading = itemLink.querySelector(":scope > .event-item-wrapper > p").innerHTML;
+                        var headingNode = itemLink.querySelector(":scope > .event-item-wrapper > h5")
+                        if (headingNode == null) {
+                            headingNode = itemLink.querySelector(":scope > .event-item-wrapper > p")
+                        }
+                        const heading = headingNode != null ? headingNode.innerHTML : ""
                         var name = itemLink.querySelector(":scope > .event-item-wrapper > .event-item > .event-text-container > .event-text > h2").innerHTML;
                         var image = itemLink.querySelector(":scope > .event-item-wrapper > .event-item > .event-img-wrapper > img").src;
                         var link = itemLink.href;
