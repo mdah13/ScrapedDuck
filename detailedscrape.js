@@ -4,6 +4,9 @@ const https = require('https');
 const breakthrough = require('./pages/detailed/breakthrough')
 const spotlight = require('./pages/detailed/spotlight')
 const communityday = require('./pages/detailed/communityday')
+const event = require('./pages/detailed/event')
+const raidbattles = require('./pages/detailed/raidbattles')
+const gobattleleague = require('./pages/detailed/gobattleleague')
 
 function main() {
     var events = JSON.parse(fs.readFileSync("./files/events.min.json"));
@@ -26,6 +29,15 @@ function main() {
                             break;
                         case "community-day":
                             communityday.get(e.link, e.eventID, bkp);
+                            break;
+                        case "event":
+                            event.get(e.link, e.eventID, bkp);
+                            break;
+                        case "raid-battles":
+                            raidbattles.get(e.link, e.eventID, bkp);
+                            break;
+                        case "go-battle-league":
+                            gobattleleague.get(e.link, e.eventID, bkp);
                             break;
                         default:
                             break;
