@@ -6,6 +6,7 @@ const spotlight = require('./pages/detailed/spotlight')
 const communityday = require('./pages/detailed/communityday')
 const event = require('./pages/detailed/event')
 const raidbattles = require('./pages/detailed/raidbattles')
+const raidday = require('./pages/detailed/raidday')
 const gobattleleague = require('./pages/detailed/gobattleleague')
 
 function main() {
@@ -35,6 +36,9 @@ function main() {
                             break;
                         case "raid-battles":
                             raidbattles.get(e.link, e.eventID, bkp);
+                            break;
+                        case "raid-day":
+                            raidday.get(e.link, e.eventID, bkp);
                             break;
                         case "go-battle-league":
                             gobattleleague.get(e.link, e.eventID, bkp);
