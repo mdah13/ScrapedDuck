@@ -70,7 +70,7 @@ function get(url, id, bkp) {
                     }
                 }
 
-                fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "raid-battles", data: event }), err => {
+                fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "raid-day", data: event }), err => {
                     if (err) {
                         console.error(err);
                         return;
@@ -79,7 +79,7 @@ function get(url, id, bkp) {
             }).catch(_err => {
                 for (var i = 0; i < bkp.length; i++) {
                     if (bkp[i].eventID == id) {
-                        fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "raid-battles", data: bkp[i].extraData }), err => {
+                        fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "raid-day", data: bkp[i].extraData }), err => {
                             if (err) {
                                 console.error(err);
                                 return;

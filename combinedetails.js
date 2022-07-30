@@ -29,6 +29,9 @@ function main() {
                         case "raid-battles":
                             e.extraData = { raidhour: data.data }
                             break;
+                        case "raid-day":
+                            e.extraData = { raidday: data.data }
+                            break;
                         case "go-battle-league":
                             e.extraData = { gobattleleague: data.data }
                             break;
