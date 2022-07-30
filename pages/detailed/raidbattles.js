@@ -9,8 +9,6 @@ function get(url, id, bkp) {
         })
             .then((dom) => {
 
-                var content = dom.window.document.querySelectorAll('.pkmn-list-flex')[0];
-
                 var event = {
                     name: "",
                     canBeShiny: false,
@@ -18,6 +16,49 @@ function get(url, id, bkp) {
                     bonus: [],
                     graphic: ""
                 };
+
+                var content = dom.window.document.querySelectorAll('.pkmn-list-flex');
+
+                if (content.length != 0) {
+                    names = []
+                    for (let i = 0; i < content.length; i++) {
+                        const element = content[i];
+                        pokeList = element.querySelectorAll(".pkmn-name");
+
+                        if (pokeList.length != 0) {
+                            for (let i = 0; i < pokeList.length; i++) {
+                                const pokeName = pokeList[i];
+                                if (pokeName.innerHTML) {
+                                    names.push(pokeName.innerHTML)
+                                }
+                            }
+                        }
+
+                        if (element.querySelector(":scope > .pkmn-list-item > .shiny-icon") != null) {
+                            event.canBeShiny = true;
+                        }
+
+                        const pkmImg = element.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img")
+                        if (pkmImg != null) {
+                            event.image = event.image || pkmImg.src;
+                            if (pkmImg.src.includes("shiny")) {
+                                event.canBeShiny = true;
+                            }
+                        }
+                    }
+                    names = names.filter((v, i, a) => a.indexOf(v) === i);
+                    event.name = names.join(', ')
+                }
+
+
+                var bonuses = dom.window.document.querySelectorAll('.bonus-text');
+
+                for (let i = 0; i < bonuses.length; i++) {
+                    const bonus = bonuses[i];
+                    if (bonus.textContent) {
+                        event.bonus.push("-" + bonus.textContent)
+                    }
+                }
 
                 const images = dom.window.document.querySelectorAll('img');
 
@@ -28,18 +69,6 @@ function get(url, id, bkp) {
                         break
                     }
                 }
-
-                pokemons = content.querySelectorAll(".pkmn-name");
-
-                names = []
-                for (let i = 0; i < pokemons.length; i++) {
-                    const pokeName = pokemons[i];
-                    names.push(pokeName.innerHTML)
-                }
-
-                event.name = names.join(', ')
-                event.canBeShiny = content.querySelector(":scope > .pkmn-list-item > .shiny-icon") != null;
-                event.image = content.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
 
                 fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "raid-battles", data: event }), err => {
                     if (err) {
