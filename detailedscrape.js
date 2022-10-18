@@ -21,7 +21,7 @@ function main() {
 
     var events = JSON.parse(fs.readFileSync("./files/events.min.json"));
 
-    https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json", (res) => {
+    https.get("https://raw.githubusercontent.com/mdah13/ScrapedDuck/data/events.min.json", (res) => {
         let body = "";
         res.on("data", (chunk) => { body += chunk; });
 
@@ -40,6 +40,7 @@ function main() {
                         case "community-day":
                             communityday.get(e.link, e.eventID, bkp);
                             break;
+                        case "season":
                         case "event":
                             event.get(e.link, e.eventID, bkp);
                             break;
