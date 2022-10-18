@@ -23,6 +23,7 @@ function main() {
                         case "community-day":
                             e.extraData = { communityday: data.data }
                             break;
+                        case "season":
                         case "event":
                             e.extraData = { event: data.data }
                             break;
