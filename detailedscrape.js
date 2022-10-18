@@ -12,7 +12,7 @@ const gobattleleague = require('./pages/detailed/gobattleleague')
 function main() {
     var events = JSON.parse(fs.readFileSync("./files/events.min.json"));
 
-    https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json", (res) => {
+    https.get("https://raw.githubusercontent.com/mdah13/ScrapedDuck/data/events.min.json", (res) => {
         let body = "";
         res.on("data", (chunk) => { body += chunk; });
 
