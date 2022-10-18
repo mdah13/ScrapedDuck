@@ -2,6 +2,7 @@ const fs = require('fs');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
 const https = require('https');
+const utils = require('./utils');
 
 function get(url, id, bkp) {
     return new Promise(resolve => {
@@ -14,8 +15,14 @@ function get(url, id, bkp) {
                     canBeShiny: false,
                     image: "",
                     bonus: [],
-                    graphic: ""
+                    graphic: []
                 };
+
+                const images = dom.window.document.querySelectorAll('img');
+                event.graphic = utils.Graphics(images);
+
+                var bonuses = dom.window.document.querySelectorAll('.bonus-text');
+                event.bonus = utils.Bonuses(bonuses);
 
                 var content = dom.window.document.querySelectorAll('.pkmn-list-flex');
 
@@ -48,26 +55,6 @@ function get(url, id, bkp) {
                     }
                     names = names.filter((v, i, a) => a.indexOf(v) === i);
                     event.name = names.join(', ')
-                }
-
-
-                var bonuses = dom.window.document.querySelectorAll('.bonus-text');
-
-                for (let i = 0; i < bonuses.length; i++) {
-                    const bonus = bonuses[i];
-                    if (bonus.textContent) {
-                        event.bonus.push("-" + bonus.textContent)
-                    }
-                }
-
-                const images = dom.window.document.querySelectorAll('img');
-
-                for (let i = 0; i < images.length; i++) {
-                    const img = images[i];
-                    if (img.alt === "Graphic") {
-                        event.graphic = img.src
-                        break
-                    }
                 }
 
                 fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "raid-day", data: event }), err => {
