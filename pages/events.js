@@ -26,7 +26,8 @@ function get() {
                         var name = itemLink.querySelector(":scope > .event-item-wrapper > .event-item > .event-text-container > .event-text > h2").innerHTML;
                         var image = itemLink.querySelector(":scope > .event-item-wrapper > .event-item > .event-img-wrapper > img").src;
                         var link = itemLink.href;
-                        var eventID = link.substring(32, link.length - 1)
+                        var eventID = link.split("/events/")[1];
+                        eventID = eventID.substring(0, eventID.length - 1);
 
                         var eventItemWrapper = itemLink.querySelector(":scope > .event-item-wrapper");
                         var eventType = (eventItemWrapper.classList + "").replace("event-item-wrapper ", "");
