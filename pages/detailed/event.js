@@ -2,6 +2,7 @@ const fs = require('fs');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
 const https = require('https');
+const utils = require('./utils');
 
 function get(url, id, bkp) {
     return new Promise(resolve => {
@@ -14,25 +15,14 @@ function get(url, id, bkp) {
                     canBeShiny: false,
                     image: "",
                     bonus: [],
-                    graphic: ""
+                    graphic: []
                 };
 
                 const images = dom.window.document.querySelectorAll('img');
-
-                for (let i = 0; i < images.length; i++) {
-                    const img = images[i];
-                    if (img.alt === "Graphic") {
-                        event.graphic = img.src
-                        break
-                    }
-                }
-
+                event.graphic = utils.Graphics(images);
+                
                 var bonuses = dom.window.document.querySelectorAll('.bonus-text');
-
-                for (let i = 0; i < bonuses.length; i++) {
-                    const bonus = bonuses[i];
-                    event.bonus.push("-" + bonus.textContent)
-                }
+                event.bonus = utils.Bonuses(bonuses);
 
                 var content = dom.window.document.querySelectorAll('.pkmn-list-flex')[0];
                 if (content != null) {

@@ -2,6 +2,7 @@ const fs = require('fs');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
 const https = require('https');
+const utils = require('./utils');
 
 function get(url, id, bkp) {
     return new Promise(resolve => {
@@ -15,8 +16,14 @@ function get(url, id, bkp) {
                     name: "",
                     image: "",
                     bonus: [],
-                    graphic: ""
+                    graphic: []
                 };
+
+                const images = dom.window.document.querySelectorAll('img');
+                event.graphic = utils.Graphics(images);
+
+                var bonuses = dom.window.document.querySelectorAll('.bonus-text');
+                event.bonus = utils.Bonuses(bonuses);
 
                 var spawnList;
 
@@ -35,16 +42,6 @@ function get(url, id, bkp) {
                     }
                 }
 
-                const images = dom.window.document.querySelectorAll('img');
-
-                for (let i = 0; i < images.length; i++) {
-                    const img = images[i];
-                    if (img.alt === "Graphic") {
-                        event.graphic = img.src
-                        break
-                    }
-                }
-
                 if (spawnList != null) {
                     pokemons = spawnList.querySelectorAll(".pkmn-name");
 
@@ -57,14 +54,6 @@ function get(url, id, bkp) {
                     event.name = names.join(', ')
                     event.image = spawnList.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
                 }
-
-                var bonuses = dom.window.document.querySelectorAll('.bonus-text');
-
-                for (let i = 0; i < bonuses.length; i++) {
-                    const bonus = bonuses[i];
-                    event.bonus.push("-" + bonus.textContent)
-                }
-
 
                 fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "community-day", data: event }), err => {
                     if (err) {
