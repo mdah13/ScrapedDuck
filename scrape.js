@@ -11,6 +11,9 @@ function main()
         fs.mkdirSync('files');
         fs.mkdirSync('files/temp');
     }
+    if (!fs.existsSync('files/temp')) {
+        fs.mkdirSync('files/temp');
+    }
 
     events.get();
     raids.get();

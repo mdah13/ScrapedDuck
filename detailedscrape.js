@@ -10,6 +10,15 @@ const raidday = require('./pages/detailed/raidday')
 const gobattleleague = require('./pages/detailed/gobattleleague')
 
 function main() {
+    if (!fs.existsSync('files'))
+    {
+        fs.mkdirSync('files');
+        fs.mkdirSync('files/temp');
+    }
+    if (!fs.existsSync('files/temp')) {
+        fs.mkdirSync('files/temp');
+    }
+
     var events = JSON.parse(fs.readFileSync("./files/events.min.json"));
 
     https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json", (res) => {
