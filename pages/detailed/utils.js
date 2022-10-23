@@ -21,7 +21,7 @@ class Utils {
         for (let i = 0; i < bonusTags.length; i++) {
             const bonus = bonusTags[i];
             if (bonus.textContent) {
-                bonuses.push("-" + bonus.textContent)
+                bonuses.push(bonus.textContent)
             }
         }
         return bonuses;
