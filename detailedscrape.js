@@ -40,6 +40,7 @@ function main() {
                         case "community-day":
                             communityday.get(e.link, e.eventID, bkp);
                             break;
+                        case "team-go-rocket":
                         case "season":
                         case "event":
                             event.get(e.link, e.eventID, bkp);
