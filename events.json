@@ -1,0 +1,1392 @@
+[
+    {
+        "eventID": "pokemon-go-fest-2026-mega-finale",
+        "name": "Pokémon GO Fest 2026: Mega Finale",
+        "eventType": "pokemon-go-fest",
+        "heading": "Pokémon GO Fest",
+        "link": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jpg",
+        "start": "2026-09-05T10:00:00.000",
+        "end": "2026-09-06T18:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "armored-mewtwo-in-5-star-raid-battles-september-2026",
+        "name": "Armored Mewtwo in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/armored-mewtwo-in-5-star-raid-battles-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/armored-mewtwo-mega-finale-2026.png",
+        "start": "2026-09-05T10:00:00.000",
+        "end": "2026-09-06T18:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Armored Mewtwo",
+                "canBeShiny": false,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0150_00_pgo_a.png",
+                "bonus": [],
+                "graphic": [
+                    "https://cdn.leekduck.com/assets/img/events/icons/graphic.png",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.09.04%20-%20Armored%20Mewtwo%20Raid%20Guide.jpg?v2"
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "10th-anniversary-celebration",
+        "name": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/10th-anniversary-celebration/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-12-10th-anniversary-celebration/10th-anniversary-celebration-2026.jpg",
+        "start": "2026-08-12T16:00:00.000",
+        "end": "2026-09-06T23:59:00.000",
+        "extraData": {
+            "event": {
+                "name": "Mewtwo",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-09-07",
+        "name": "Dynamax Ralts during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-09-07/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-09-07T06:00:00.000",
+        "end": "2026-09-07T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-23-forever-forward",
+        "name": "Forever Forward",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-23-forever-forward/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg",
+        "start": "2026-06-02T10:00:00.000",
+        "end": "2026-09-08T10:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "One additional Candy for trading Pokémon",
+                    "Increased limits on opening, receiving from PokéStop and Gym Photo Discs, and storing Gifts",
+                    "2× Daily Adventure Incense duration",
+                    "Increased XP and Stardust from hatching Eggs"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-august-2026",
+        "name": "GO Pass: August",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
+        "start": "2026-08-04T10:00:00.000",
+        "end": "2026-09-08T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-giratina-altered-in-shadow-raids-august-2026",
+        "name": "Shadow Giratina (Altered Forme) in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-08-05T06:00:00.000",
+        "end": "2026-09-08T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Giratina (Altered)",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-gyarados-in-mega-raids-august-2026",
+        "name": "Mega Gyarados in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-08-26T06:00:00.000",
+        "end": "2026-09-08T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Gyarados, Gyarados",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "regirock-regice-registeel-in-5-star-raid-battles-august-2026",
+        "name": "Regirock, Regice, and Registeel in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/regi-trio.jpg",
+        "start": "2026-08-26T06:00:00.000",
+        "end": "2026-09-08T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Regirock, Regice, Registeel",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
+                "bonus": [],
+                "graphic": [
+                    "https://cdn.leekduck.com/assets/img/events/icons/graphic.png",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.08.25%20-%20Regirock%20Raid%20Guide.jpg",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.08.25%20-%20Regice%20Raid%20Guide.jpg",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.08.25%20-%20Registeel%20Raid%20Guide.jpg"
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20260909",
+        "name": "Zacian (Hero of Many Battles) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260909/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-09-09T18:00:00.000",
+        "end": "2026-09-09T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-09-10",
+        "name": "Weedle, Kakuna, and Beedrill Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-10/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-09-10T18:00:00.000",
+        "end": "2026-09-10T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Weedle, Kakuna, Beedrill",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+                "bonus": [
+                    "2× Transfer Candy"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "september-communitydayclassic2026",
+        "name": "Gible Community Day Classic",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/september-communitydayclassic2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-12-september-communitydayclassic2026/gible-community-day-classic.jpg",
+        "start": "2026-09-12T14:00:00.000",
+        "end": "2026-09-12T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "name": "Gible",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+                "bonus": [
+                    "Increased Spawns",
+                    "3x Catch XP",
+                    "3-hour Incense*",
+                    "1-hour Lures**"
+                ],
+                "graphic": [
+                    "https://cdn.leekduck.com/assets/img/events/icons/graphic.png",
+                    "https://cdn.leekduck.com/assets/img/events/cd/2026.08.17%20-%20September%20Community%20Day%20Classic%20-%20Gible.jpg"
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-09-13",
+        "name": "Houndour and Houndoom Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-13/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-09-13T18:00:00.000",
+        "end": "2026-09-13T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Houndour, Houndoom",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                "bonus": [
+                    "2× Transfer Candy"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-squads",
+        "name": "Mega Squads",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/mega-squads/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-mega-squads/mega-squads.jpg",
+        "start": "2026-09-08T10:00:00.000",
+        "end": "2026-09-14T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Maschiff, Mabosstiff",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Chance to obtain Mega Energy when catching Weedle, Pidgey, Houndour, Carvanha, or their Evolutions",
+                    "2× Hatch Stardust",
+                    "GO Pass Deluxe: 1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-09-14",
+        "name": "Dynamax Rhyhorn during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-09-14/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-09-14T06:00:00.000",
+        "end": "2026-09-14T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1",
+        "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+        "start": "2026-09-08T20:00:00.000Z",
+        "end": "2026-09-15T20:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-beedrill-in-mega-raids-september-2026",
+        "name": "Mega Beedrill in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-beedrill-in-mega-raids-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-09-08T06:00:00.000",
+        "end": "2026-09-15T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Beedrill, Beedrill",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026",
+        "name": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-09-09T06:00:00.000",
+        "end": "2026-09-15T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Zacian (Hero of Many Battles)",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fHERO.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-houndoom-in-mega-raids-september-2026",
+        "name": "Mega Houndoom in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-houndoom-in-mega-raids-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-09-11T06:00:00.000",
+        "end": "2026-09-15T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Houndoom, Houndoom",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20260916",
+        "name": "Zamazenta (Hero of Many Battles) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260916/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-09-16T18:00:00.000",
+        "end": "2026-09-16T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-09-17",
+        "name": "Mystery Pokémon Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-09-17T18:00:00.000",
+        "end": "2026-09-17T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "spotlight": {
+                    "spotlight": {
+                        "spotlight": {
+                            "spotlight": {
+                                "spotlight": {
+                                    "spotlight": {
+                                        "spotlight": {
+                                            "spotlight": {
+                                                "spotlight": {
+                                                    "spotlight": {
+                                                        "spotlight": {
+                                                            "spotlight": {
+                                                                "spotlight": {
+                                                                    "spotlight": {
+                                                                        "spotlight": {
+                                                                            "spotlight": {
+                                                                                "spotlight": {
+                                                                                    "spotlight": {
+                                                                                        "spotlight": {
+                                                                                            "spotlight": {
+                                                                                                "spotlight": {
+                                                                                                    "spotlight": {
+                                                                                                        "spotlight": {
+                                                                                                            "spotlight": {
+                                                                                                                "spotlight": {
+                                                                                                                    "spotlight": {
+                                                                                                                        "spotlight": {
+                                                                                                                            "spotlight": {
+                                                                                                                                "spotlight": {
+                                                                                                                                    "spotlight": {
+                                                                                                                                        "spotlight": {
+                                                                                                                                            "spotlight": {
+                                                                                                                                                "spotlight": {
+                                                                                                                                                    "spotlight": {
+                                                                                                                                                        "spotlight": {
+                                                                                                                                                            "spotlight": {
+                                                                                                                                                                "spotlight": {
+                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                                                                                                                    "spotlight": {
+                                                                                                                                                                                                                                                                                                                                                        "spotlight": {
+                                                                                                                                                                                                                                                                                                                                                            "spotlight": {
+                                                                                                                                                                                                                                                                                                                                                                "spotlight": {
+                                                                                                                                                                                                                                                                                                                                                                    "generic": {
+                                                                                                                                                                                                                                                                                                                                                                        "hasSpawns": false,
+                                                                                                                                                                                                                                                                                                                                                                        "hasFieldResearchTasks": false
+                                                                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            }
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                }
+                                                                                                                                                                                            }
+                                                                                                                                                                                        }
+                                                                                                                                                                                    }
+                                                                                                                                                                                }
+                                                                                                                                                                            }
+                                                                                                                                                                        }
+                                                                                                                                                                    }
+                                                                                                                                                                }
+                                                                                                                                                            }
+                                                                                                                                                        }
+                                                                                                                                                    }
+                                                                                                                                                }
+                                                                                                                                            }
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "eventID": "staraptor-super-mega-raid-day-2026",
+        "name": "Staraptor Super Mega Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-raid-day-2026.jpg",
+        "start": "2026-09-19T14:00:00.000",
+        "end": "2026-09-19T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "Staraptor",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_398_00_shiny.png",
+                "bonus": [
+                    "Remote Raid limit increased to 20 from Friday, September 18, at 5:00 p.m. to Saturday, September 19, 2026, at 8:00 p.m. PDT",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Staraptor caught from Super Mega Raids will have Mega Level 1 unlocked",
+                    "Increased chance of encountering Shiny Staraptor from Super Mega Raids",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "An additional 5,000 Stardust from Super Mega Raid Battles"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-09-21",
+        "name": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-09-21/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-09-21T06:00:00.000",
+        "end": "2026-09-21T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition",
+        "name": "Great League, Ultra League: Mega Edition, and Willpower Cup: Great League Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2026-09-15T20:00:00.000Z",
+        "end": "2026-09-22T20:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only Fighting-, Psychic-, and Dark-type Pokémon are eligible.",
+                    "The following Pokémon will not be allowed.",
+                    "-Gardevoir",
+                    "-Zorua",
+                    "-Zoroark"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-horizons-the-series-celebration-event-2026",
+        "name": "Pokémon Horizons: The Series Celebration Event",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-horizons-celebration-event-2026.jpg",
+        "start": "2026-09-16T10:00:00.000",
+        "end": "2026-09-22T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Charmander wearing Friede's goggles, Charmeleon wearing Friede's goggles, Charizard wearing Friede's goggles",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased chance to encounter Kecleon at PokéStops",
+                    "2× Candy for catching Pokémon",
+                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
+                    "Regular Lure Modules will last for one hour and may attract the featured Pokémon",
+                    "Additional Stardust for catching Hatenna and Wattrel"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-venusaur-in-mega-raids-september-2026",
+        "name": "Mega Venusaur in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-venusaur-in-mega-raids-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-09-16T06:00:00.000",
+        "end": "2026-09-22T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Venusaur, Venusaur",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_51.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026",
+        "name": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-09-16T06:00:00.000",
+        "end": "2026-09-22T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Zamazenta (Hero of Many Battles)",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fHERO.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20260923",
+        "name": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260923/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-09-23T18:00:00.000",
+        "end": "2026-09-23T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-09-24",
+        "name": "Rattata Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-24/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-09-24T18:00:00.000",
+        "end": "2026-09-24T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Rattata",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png",
+                "bonus": [
+                    "2× Evolution XP"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "catch-mastery-phantump-2026",
+        "name": "Phantump Catch Mastery",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/catch-mastery-phantump-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
+        "start": "2026-09-26T10:00:00.000",
+        "end": "2026-09-26T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Phantump",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-09-28",
+        "name": "Dynamax Sobble during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-09-28/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-09-28T06:00:00.000",
+        "end": "2026-09-28T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition",
+        "name": "Ultra League, Master League: Mega Edition, and Retro Cup: Great League Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2026-09-22T20:00:00.000Z",
+        "end": "2026-09-29T20:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Dark-, Steel-, and Fairy-type Pokémon are not eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-malamar-in-mega-raids-september-2026",
+        "name": "Mega Malamar in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-09-23T06:00:00.000",
+        "end": "2026-09-29T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Malamar, Malamar",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026",
+        "name": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-09-23T06:00:00.000",
+        "end": "2026-09-29T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Buzzwole, Pheromosa, Xurkitree",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20260930",
+        "name": "Xerneas Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260930/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-09-30T18:00:00.000",
+        "end": "2026-09-30T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "lego-pokemon-go-2026",
+        "name": "LEGO Stores and Pokémon GO",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/lego-pokemon-go-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
+        "start": "2026-08-03T10:00:00.000",
+        "end": "2026-09-30T23:59:00.000",
+        "extraData": {
+            "event": {
+                "name": "Pikachu",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Razz Berry ×5",
+                    "Poké Ball ×10",
+                    "Pinap Berry ×5",
+                    "Nanab Berry ×5"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-october-2026",
+        "name": "Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-october-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-10-03T14:00:00.000",
+        "end": "2026-10-03T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "harvest-festival-2026",
+        "name": "Harvest Festival",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/harvest-festival-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-09-29T10:00:00.000",
+        "end": "2026-10-05T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-september-2026",
+        "name": "GO Pass: September",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg",
+        "start": "2026-09-08T10:00:00.000",
+        "end": "2026-10-06T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition",
+        "name": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2026-09-29T20:00:00.000Z",
+        "end": "2026-10-06T20:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-All Pokémon are eligible.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Only Fire-, Water-, Grass-, and Electric-type Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026",
+        "name": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-09-09T06:00:00.000",
+        "end": "2026-10-06T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Thundurus (Incarnate)",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-victreebel-in-mega-raids-september-2026",
+        "name": "Mega Victreebel in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-09-30T06:00:00.000",
+        "end": "2026-10-06T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Victreebel, Victreebel",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "xerneas-in-5-star-raid-battles-september-2026",
+        "name": "Xerneas in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-09-30T06:00:00.000",
+        "end": "2026-10-06T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Xerneas",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "october-communityday2026",
+        "name": "October Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/october-communityday2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2026-10-10T14:00:00.000",
+        "end": "2026-10-10T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "name": "",
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2",
+        "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+        "start": "2026-10-06T20:00:00.000Z",
+        "end": "2026-10-13T20:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "hatch-day-october-2026",
+        "name": "Hatch Day",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/hatch-day-october-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-10-17T11:00:00.000",
+        "end": "2026-10-17T17:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup",
+        "name": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2026-10-13T20:00:00.000Z",
+        "end": "2026-10-20T20:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 500 CP to enter.",
+                    "-Only Pokémon that are able to evolve and have not evolved even once are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-october-24-2026",
+        "name": "Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-october-24-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-10-24T14:00:00.000",
+        "end": "2026-10-24T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition",
+        "name": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2026-10-20T20:00:00.000Z",
+        "end": "2026-10-27T20:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "super-mega-raid-day-october-2026",
+        "name": "Super Mega Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-10-31T14:00:00.000",
+        "end": "2026-10-31T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition",
+        "name": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2026-10-27T21:00:00.000Z",
+        "end": "2026-11-03T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-All Pokémon are eligible.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Only Bug-, Poison-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3",
+        "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+        "start": "2026-11-03T21:00:00.000Z",
+        "end": "2026-11-10T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup",
+        "name": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2026-11-10T21:00:00.000Z",
+        "end": "2026-11-17T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.",
+                    "-Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.",
+                    "-Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.",
+                    "The following Pokémon will not be allowed.",
+                    "-Chansey",
+                    "-Snorlax",
+                    "-Furret",
+                    "-Wobbuffet",
+                    "-Galarian Corsola",
+                    "-Kingdra",
+                    "-Medicham",
+                    "-Altaria",
+                    "-Dusclops",
+                    "-Jellicent",
+                    "-Jellicent",
+                    "-Araquanid",
+                    "-Oranguru",
+                    "-Annihilape",
+                    "-Clodsire"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "november-communityday2026",
+        "name": "November Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/november-communityday2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2026-11-21T14:00:00.000",
+        "end": "2026-11-21T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "name": "",
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup",
+        "name": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2026-11-18T21:00:00.000Z",
+        "end": "2026-11-25T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.",
+                    "-Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.",
+                    "-Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.",
+                    "The following Pokémon will not be allowed.",
+                    "-Chansey",
+                    "-Snorlax",
+                    "-Furret",
+                    "-Wobbuffet",
+                    "-Galarian Corsola",
+                    "-Kingdra",
+                    "-Medicham",
+                    "-Altaria",
+                    "-Dusclops",
+                    "-Jellicent",
+                    "-Jellicent",
+                    "-Araquanid",
+                    "-Oranguru",
+                    "-Annihilape",
+                    "-Clodsire"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "super-mega-raid-day-november-2026",
+        "name": "Super Mega Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-11-28T14:00:00.000",
+        "end": "2026-11-28T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "season-24-twilight-trails",
+        "name": "Twilight Trails",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-24-twilight-trails/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg",
+        "start": "2026-09-08T10:00:00.000",
+        "end": "2026-12-01T10:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Maschiff, Mabosstiff",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
+                    "One additional Candy for trading Pokémon",
+                    "Increased limits on opening Gifts, receiving Gifts from PokéStop and Gym Photo Discs, and storing Gifts",
+                    "2× Daily Adventure Incense duration",
+                    "Increased XP and Stardust from hatching Eggs"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition",
+        "name": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2026-11-24T21:00:00.000Z",
+        "end": "2026-12-01T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-All Pokémon are eligible.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Only Pokémon caught during the Twilight Trails Season are eligible.*",
+                    "-Mythical Pokémon are not eligible."
+                ],
+                "graphic": []
+            }
+        }
+    }
+]
