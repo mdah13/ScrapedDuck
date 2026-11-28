@@ -1,0 +1,1604 @@
+[
+    {
+        "eventID": "raidhour20261125",
+        "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20261125/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": null,
+        "end": null,
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-11-26",
+        "name": "Noibat Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-11-26T18:00:00.000",
+        "end": "2026-11-26T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Noibat",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+                "bonus": [
+                    "2× Catch Candy"
+                ],
+                "graphic": [
+                    "https://cdn.leekduck.com/assets/img/events/graphics/2026.11.01%20-%20November%202026%20Spotlight%20Hours.jpg?v2"
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "clefable-super-mega-raid-day-2026",
+        "name": "Clefable Super Mega Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/clefable-super-mega-raid-day-2026.jpg",
+        "start": "2026-11-28T14:00:00.000",
+        "end": "2026-11-28T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "Clefable",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_036_00.png",
+                "bonus": [
+                    "Remote Raid limit increased to 20 from Friday, November 27, at 5:00 p.m. to Saturday, November 28, 2026, at 8:00 p.m. PST",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Clefable caught from Super Mega Raids will have Mega Level 1 unlocked",
+                    "Increased chance of encountering Shiny Clefable from Super Mega Raids",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "An additional 5,000 Stardust from Super Mega Raid Battles"
+                ],
+                "graphic": [
+                    "https://cdn.leekduck.com/assets/img/events/icons/graphic.png",
+                    "https://cdn.leekduck.com/assets/img/events/graphics/2026.11.26%20-%20Clefable%20Super%20Mega%20Raid%20Day.jpg"
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "twilight-wishes-2026",
+        "name": "Twilight Wishes",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/twilight-wishes-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/twilight-wishes-2026.jpg?v2",
+        "start": "2026-11-24T10:00:00.000",
+        "end": "2026-11-30T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Shiny Staryu, Shiny Elgyem",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased chance to encounter Shiny Staryu and Shiny Elgyem",
+                    "Increased chance to get Lucky Pokémon in trades",
+                    "Increased chance to become Lucky Friends",
+                    "2× Stardust for catching Pokémon",
+                    "GO Pass Deluxe: 3× Stardust for catching Pokémon"
+                ],
+                "graphic": [
+                    "https://cdn.leekduck.com/assets/img/events/icons/graphic.png",
+                    "https://cdn.leekduck.com/assets/img/events/graphics/2026.11.23%20-%20Twilight%20Wishes%20-%20Page%201.jpg",
+                    "https://cdn.leekduck.com/assets/img/events/graphics/2026.11.23%20-%20Twilight%20Wishes%20-%20Page%202.jpg?v3"
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-11-30",
+        "name": "Dynamax Cryogonal during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-11-30/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-11-30T06:00:00.000",
+        "end": "2026-11-30T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-24-twilight-trails",
+        "name": "Twilight Trails",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-24-twilight-trails/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg",
+        "start": "2026-09-08T10:00:00.000",
+        "end": "2026-12-01T10:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Maschiff, Mabosstiff",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
+                    "One additional Candy for trading Pokémon",
+                    "Increased limits on opening Gifts, receiving Gifts from PokéStop and Gym Photo Discs, and storing Gifts",
+                    "2× Daily Adventure Incense duration",
+                    "Increased XP and Stardust from hatching Eggs"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-november-2026",
+        "name": "GO Pass: November",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-november-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-03-go-pass-november-2026/go-pass-november-2026.jpg",
+        "start": "2026-11-03T10:00:00.000",
+        "end": "2026-12-01T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026",
+        "name": "Shadow Tornadus (Incarnate Forme) in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/tornadus.jpg",
+        "start": "2026-11-16T06:00:00.000",
+        "end": "2026-12-01T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Tornadus (Incarnate)",
+                "canBeShiny": false,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_11.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026",
+        "name": "Deoxys (Normal, Defense, Attack, and Speed Formes) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+        "start": "2026-11-25T06:00:00.000",
+        "end": "2026-12-01T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Deoxys (Normal), Deoxys (Defense), Deoxys (Attack), Deoxys (Speed)",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_11.png",
+                "bonus": [],
+                "graphic": [
+                    "https://cdn.leekduck.com/assets/img/events/icons/graphic.png",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.11.24%20-%20Deoxys%20Normal%20Forme.jpg",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.11.24%20-%20Deoxys%20Speed%20Forme.jpg",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.11.24%20-%20Deoxys%20Defense%20Forme.jpg",
+                    "https://cdn.leekduck.com/assets/img/events/raids/2026.11.24%20-%20Deoxys%20Attack%20Forme.jpg"
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "mega-metagross-in-mega-raids-november-2026",
+        "name": "Mega Metagross in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-11-25T06:00:00.000",
+        "end": "2026-12-01T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Metagross, Metagross",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm376.fMEGA.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20261202",
+        "name": "Regidrago Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20261202/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-12-02T18:00:00.000",
+        "end": "2026-12-02T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-12-03",
+        "name": "Wimpod Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-03/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-12-03T18:00:00.000",
+        "end": "2026-12-03T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Wimpod",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+                "bonus": [
+                    "2× Transfer Candy"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gigantamax-inteleon-max-battle-day-2026",
+        "name": "Gigantamax Inteleon Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/gigantamax-inteleon-max-battle-day-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-05-gigantamax-inteleon-max-battle-day-2026/gigantamax-inteleon-max-battle-day.jpg",
+        "start": "2026-12-05T14:00:00.000",
+        "end": "2026-12-05T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "tropical-paradise-2026",
+        "name": "Tropical Paradise",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/tropical-paradise-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/tropical-paradise-2026.jpg",
+        "start": "2026-12-01T10:00:00.000",
+        "end": "2026-12-07T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Pyukumuku",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "2× Raid XP",
+                    "5× Mega Energy for exploring with Slowpoke, Slowbro, or Slowking as your buddy after Mega Evolving Slowbro at least once"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-12-07",
+        "name": "Dynamax Deino during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-12-07/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-12-07T06:00:00.000",
+        "end": "2026-12-07T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1",
+        "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2026-12-01T21:00:00.000Z",
+        "end": "2026-12-08T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-slowbro-in-mega-raids-december-2026",
+        "name": "Mega Slowbro in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-slowbro-in-mega-raids-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-12-02T06:00:00.000",
+        "end": "2026-12-08T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Slowbro, Slowbro",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_51.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "regidrago-in-5-star-raid-battles-december-2026",
+        "name": "Regidrago in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/regidrago.jpg",
+        "start": "2026-12-02T06:00:00.000",
+        "end": "2026-12-08T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Regidrago",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20261209",
+        "name": "Unannounced Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20261209/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-12-09T18:00:00.000",
+        "end": "2026-12-09T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-12-10",
+        "name": "Starly Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-10/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-12-10T18:00:00.000",
+        "end": "2026-12-10T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Starly",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_396_00.png",
+                "bonus": [
+                    "2× Catch Stardust"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "december-communityday2026",
+        "name": "December Community Day 2026",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/december-communityday2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-12-december-communityday2026/december-2026-community-day.jpg",
+        "start": "2026-12-12T14:00:00.000",
+        "end": "2026-12-13T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "name": "Vulpix, Alolan Vulpix, Grookey, Scorbunny, Lechonk, Tinkatink",
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png",
+                "bonus": [
+                    "Increased Spawns",
+                    "2x XP for catching Pokémon",
+                    "2x Stardust for catching Pokémon",
+                    "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+                    "2x Catch Candy",
+                    "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
+                    "3-hour Incense**",
+                    "1-hour Lures*",
+                    "Up to two Special Trades can be made per day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-champions-celebration-event-2026",
+        "name": "Pokémon Champions Celebration Event 2026",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-08-pokemon-champions-celebration-event-2026/pokemon-champions-celebration-event-2026.jpg",
+        "start": "2026-12-08T10:00:00.000",
+        "end": "2026-12-14T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Charmander, Starly, Grookey",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased chance to encounter Kecleon at PokéStops",
+                    "7× GO Transporter Energy gained per hour to send a Pokémon from Pokémon GO to Pokémon HOME",
+                    "2× Candy for catching Pokémon*",
+                    "3,000 additional XP from completing Raid Battles",
+                    "GO Pass Deluxe: Receive up to two free Raid Passes per day from spinning Gym Photo Discs"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-12-14",
+        "name": "Dynamax Eevee during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-12-14/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-12-14T06:00:00.000",
+        "end": "2026-12-14T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition",
+        "name": "Great League: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2026-12-08T21:00:00.000Z",
+        "end": "2026-12-15T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only Rock-, Ground-, Ice-, and Steel-type Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-gengar-in-mega-raids-december-2026",
+        "name": "Mega Gengar in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-gengar-in-mega-raids-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-12-09T06:00:00.000",
+        "end": "2026-12-15T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Gengar, Gengar",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-champions-celebration-5-star-raid-battles-december-2026",
+        "name": "Pokémon Champions Celebration 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/pokemon-champions-celebration-5-star-raid-battles-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-12-09T06:00:00.000",
+        "end": "2026-12-15T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Latias, Latios, Heatran, Cobalion, Terrakion, Virizion, Regieleki, Regidrago",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20261216",
+        "name": "Ho-Oh Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20261216/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-12-16T18:00:00.000",
+        "end": "2026-12-16T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "minior-showers-geminids-2026",
+        "name": "Minior Showers: Geminids 2026",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/minior-showers-geminids-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+        "start": "2026-12-11T17:00:00.000",
+        "end": "2026-12-16T23:59:00.000",
+        "extraData": {
+            "event": {
+                "name": "Minior (Red Core), Minior (Orange Core), Minior (Yellow Core), Minior (Green Core), Minior (Blue Core), Minior (Indigo Core), Minior (Violet Core)",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased Stardust for catching Minior",
+                    "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-12-17",
+        "name": "Bergmite Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-17/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-12-17T18:00:00.000",
+        "end": "2026-12-17T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Bergmite",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png",
+                "bonus": [
+                    "2× Evolution XP"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-december-2026",
+        "name": "Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-12-19T14:00:00.000",
+        "end": "2026-12-19T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "choose-your-path-daydream-destinations-2026-12-15",
+        "name": "Choose Your Path: Daydream Destinations (December 15, 2026)",
+        "eventType": "choose-your-path",
+        "heading": "Choose Your Path",
+        "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/",
+        "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream-destinations-2026.jpg",
+        "start": "2026-12-15T10:00:00.000",
+        "end": "2026-12-21T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-12-21",
+        "name": "Dynamax Alolan Sandshrew during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-12-21/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-12-21T06:00:00.000",
+        "end": "2026-12-21T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition",
+        "name": "Ultra League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2026-12-15T21:00:00.000Z",
+        "end": "2026-12-22T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only Normal-, Grass-, Electric-, Flying-, Ice-, and Ghost-type Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "ho-oh-in-5-star-raid-battles-december-2026",
+        "name": "Ho-Oh in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/ho-oh-in-5-star-raid-battles-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/hooh.jpg",
+        "start": "2026-12-16T06:00:00.000",
+        "end": "2026-12-22T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Ho-Oh",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-skarmory-in-mega-raids-december-2026",
+        "name": "Mega Skarmory in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-skarmory-in-mega-raids-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-12-16T06:00:00.000",
+        "end": "2026-12-22T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Skarmory, Skarmory",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega%20Skarmory.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20261223",
+        "name": "Lugia Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20261223/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-12-23T18:00:00.000",
+        "end": "2026-12-23T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-12-24",
+        "name": "Delibird Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-24/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-12-24T18:00:00.000",
+        "end": "2026-12-24T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Delibird",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
+                "bonus": [
+                    "2× Catch XP"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "hatch-day-december-2026",
+        "name": "Hatch Day",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/hatch-day-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-12-26T11:00:00.000",
+        "end": "2026-12-26T17:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "winter-holiday-2026",
+        "name": "Winter Holiday 2026",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/winter-holiday-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-12-22T10:00:00.000",
+        "end": "2026-12-28T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-12-28",
+        "name": "Dynamax Magikarp during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-12-28/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-12-28T06:00:00.000",
+        "end": "2026-12-28T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition",
+        "name": "Master League: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2026-12-22T21:00:00.000Z",
+        "end": "2026-12-29T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only Normal-, Grass-, Electric-, Flying-, Ice-, and Ghost-type Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "lugia-in-5-star-raid-battles-december-2026",
+        "name": "Lugia in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/lugia-in-5-star-raid-battles-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/lugia-raids.jpg",
+        "start": "2026-12-23T06:00:00.000",
+        "end": "2026-12-29T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Lugia",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_249_00.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-glalie-in-mega-raids-december-2026",
+        "name": "Mega Glalie in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-12-23T06:00:00.000",
+        "end": "2026-12-29T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Glalie, Glalie",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20261230",
+        "name": "Tornadus (Therian Forme), Thundurus (Therian Forme), and Landorus (Therian Forme) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20261230/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-12-30T18:00:00.000",
+        "end": "2026-12-30T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-12-31",
+        "name": "Plusle and Minun Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-12-31/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-12-31T18:00:00.000",
+        "end": "2026-12-31T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Plusle, Minun",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png",
+                "bonus": [
+                    "2× Catch Candy"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "duolingo-timed-research-2026",
+        "name": "Pokémon GO and Duolingo Timed Research",
+        "eventType": "timed-research",
+        "heading": "Timed Research",
+        "link": "https://leekduck.com/events/duolingo-timed-research-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-17-duolingo-timed-research-2026/duolingo-timed-research-2026.jpg",
+        "start": "2026-11-17T10:00:00.000",
+        "end": "2026-12-31T23:59:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "january-communitydayclassic2027",
+        "name": "January Community Day Classic",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/january-communitydayclassic2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2027-01-02T14:00:00.000",
+        "end": "2027-01-02T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "name": "",
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "new-years-2027",
+        "name": "New Year's 2027",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/new-years-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-12-29T10:00:00.000",
+        "end": "2027-01-04T20:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-december-2026",
+        "name": "GO Pass: December",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-01-go-pass-december-2026/go-pass-december-2026.jpg",
+        "start": "2026-12-01T10:00:00.000",
+        "end": "2027-01-05T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2",
+        "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2026-12-29T21:00:00.000Z",
+        "end": "2027-01-05T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "shadow-dialga-in-shadow-raids-december-2026",
+        "name": "Shadow Dialga in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
+        "start": "2026-12-02T06:00:00.000",
+        "end": "2027-01-05T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Dialga",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "mega-falinks-in-mega-raids-december-2026",
+        "name": "Mega Falinks in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-falinks-in-mega-raids-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-12-30T06:00:00.000",
+        "end": "2027-01-05T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Mega Falinks, Falinks",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026",
+        "name": "Tornadus, Thundurus, and Landorus (Therian Formes) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/tornadus-thundurus-landorus-go-tour.jpg",
+        "start": "2026-12-30T06:00:00.000",
+        "end": "2027-01-05T22:00:00.000",
+        "extraData": {
+            "raidhour": {
+                "name": "Tornadus (Therian), Thundurus (Therian), Landorus (Therian)",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_12.png",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "super-mega-raid-day-january-2027",
+        "name": "Super Mega Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2027-01-09T14:00:00.000",
+        "end": "2027-01-09T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition",
+        "name": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2027-01-05T21:00:00.000Z",
+        "end": "2027-01-12T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only Fighting-type Pokémon are eligible.",
+                    "-Flying-, Psychic-, and Ghost-type Pokémon are not eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-x-adidas-2026",
+        "name": "adidas × Pokémon Timed Research",
+        "eventType": "research",
+        "heading": "Research",
+        "link": "https://leekduck.com/events/pokemon-x-adidas-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemon-x-adidas-2026.jpg",
+        "start": "2026-09-25T10:00:00.000",
+        "end": "2027-01-15T20:00:00.000",
+        "extraData": {
+            "promocodes": [
+                "ADIDASxPOKEMON"
+            ],
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "january-communityday2027",
+        "name": "January Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/january-communityday2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2027-01-16T14:00:00.000",
+        "end": "2027-01-16T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "name": "",
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "choose-your-path-daydream-destinations-2027-01-12",
+        "name": "Choose Your Path: Daydream Destinations (January 12, 2027)",
+        "eventType": "choose-your-path",
+        "heading": "Choose Your Path",
+        "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/",
+        "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream-destinations-2026.jpg",
+        "start": "2027-01-12T10:00:00.000",
+        "end": "2027-01-18T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition",
+        "name": "Ultra League: Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2027-01-12T21:00:00.000Z",
+        "end": "2027-01-19T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only Normal-, Grass-, Electric-, Bug-, Flying-, Poison-, Ground-, and Dark-type Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-january-2027",
+        "name": "Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-january-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2027-01-23T14:00:00.000",
+        "end": "2027-01-23T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_master-league-mega-edition_master-league",
+        "name": "Master League: Mega Edition and Master League | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_master-league/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2027-01-19T21:00:00.000Z",
+        "end": "2027-01-26T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-All Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "super-mega-raid-day-january-30-2027",
+        "name": "Super Mega Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2027-01-30T14:00:00.000",
+        "end": "2027-01-30T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "choose-your-path-daydream-destinations-2027-01-26",
+        "name": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+        "eventType": "choose-your-path",
+        "heading": "Choose Your Path",
+        "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/",
+        "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream-destinations-2026.jpg",
+        "start": "2027-01-26T10:00:00.000",
+        "end": "2027-02-01T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3",
+        "name": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2027-01-26T21:00:00.000Z",
+        "end": "2027-02-02T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "february-communityday2027",
+        "name": "February Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/february-communityday2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2027-02-06T14:00:00.000",
+        "end": "2027-02-06T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "name": "",
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_great-league-mega-edition_master-league",
+        "name": "Great League: Mega Edition and Master League | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_master-league/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2027-02-02T21:00:00.000Z",
+        "end": "2027-02-09T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-All Pokémon are eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-february-2027",
+        "name": "Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-february-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2027-02-13T14:00:00.000",
+        "end": "2027-02-13T17:00:00.000",
+        "extraData": {
+            "raidday": {
+                "name": "",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup",
+        "name": "Ultra League: Mega Edition, Love Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2027-02-09T21:00:00.000Z",
+        "end": "2027-02-16T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Only red- or pink-colored Pokémon are eligible.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Only Electric-, Rock-, Poison-, Ice-, and Dark-type Pokémon are eligible.",
+                    "-Grass-, Ground-, Fighting-, Steel-, and Fairy-type Pokémon are not eligible.",
+                    "The following Pokémon will not be allowed.",
+                    "-Nidorina",
+                    "-Grimer",
+                    "-Lanturn",
+                    "-Magcargo",
+                    "-Sableye",
+                    "-Mega Sableye",
+                    "-Pachirisu",
+                    "-Drapion",
+                    "-Crustle",
+                    "-Malamar",
+                    "-Mega Malamar",
+                    "-Dragalge",
+                    "-Charjabug",
+                    "-Minior (Meteor Form)",
+                    "-Carkol",
+                    "-Coalossal"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-tour-alola-kaohsiung-2027",
+        "name": "Pokémon GO Tour: Alola - Kaohsiung 2027",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2027-02-18T16:00:00.000Z",
+        "end": "2027-02-21T15:59:59.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "choose-your-path-daydream-destinations-2027-02-16",
+        "name": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+        "eventType": "choose-your-path",
+        "heading": "Choose Your Path",
+        "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/",
+        "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream-destinations-2026.jpg",
+        "start": "2027-02-16T10:00:00.000",
+        "end": "2027-02-21T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-tour-alola-los-angeles-2027",
+        "name": "Pokémon GO Tour: Alola - Los Angeles 2027",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2027-02-19T08:00:00.000Z",
+        "end": "2027-02-22T07:59:59.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup",
+        "name": "Master League: Mega Edition, Mega Catch Cup: Great League Edition, and 2027 GO EUIC Cup | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2027-02-16T21:00:00.000Z",
+        "end": "2027-02-23T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Only Pokémon caught during the Daydream Destinations Season are eligible.*",
+                    "-Mythical Pokémon are not eligible.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Only Electric-, Rock-, Poison-, Ice-, and Dark-type Pokémon are eligible.",
+                    "-Grass-, Ground-, Fighting-, Steel-, and Fairy-type Pokémon are not eligible.",
+                    "The following Pokémon will not be allowed.",
+                    "-Nidorina",
+                    "-Grimer",
+                    "-Lanturn",
+                    "-Magcargo",
+                    "-Sableye",
+                    "-Mega Sableye",
+                    "-Pachirisu",
+                    "-Drapion",
+                    "-Crustle",
+                    "-Malamar",
+                    "-Mega Malamar",
+                    "-Dragalge",
+                    "-Charjabug",
+                    "-Minior (Meteor Form)",
+                    "-Carkol",
+                    "-Coalossal"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-tour-alola-global-2027",
+        "name": "Pokémon GO Tour: Alola - Global 2027",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2027-02-27T00:00:00.000",
+        "end": "2027-02-28T23:59:59.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-25-daydream-destinations",
+        "name": "Daydream Destinations",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-25-daydream-destinations/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-12-01-season-25-daydream-destinations/season-25-daydream-destinations.jpg",
+        "start": "2026-12-01T10:00:00.000",
+        "end": "2027-03-01T10:00:00.000",
+        "extraData": {
+            "event": {
+                "name": "Alolan Sandshrew, Slowpoke, Corphish",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased XP from going up a Friendship level",
+                    "2× Friendship bonus damage in raids",
+                    "Increased limits on opening Gifts, receiving Gifts from PokéStop and Gym Photo Discs, and storing Gifts",
+                    "2× Daily Adventure Incense duration",
+                    "Increased XP and Stardust from hatching Eggs"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition",
+        "name": "Great League: Mega Edition, Ultra League: Mega Edition, Master League: Mega Edition, and Mega Catch Cup: Great League Edition | Daydream Destinations",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2027-02-23T21:00:00.000Z",
+        "end": "2027-03-02T21:00:00.000Z",
+        "extraData": {
+            "gobattleleague": {
+                "name": "",
+                "image": "",
+                "bonus": [
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 2,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-No CP limit.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Pokémon must be at or below 1,500 CP to enter.",
+                    "-Mega-Evolved Pokémon are allowed.",
+                    "-Only Pokémon caught during the Daydream Destinations Season are eligible.*",
+                    "-Mythical Pokémon are not eligible."
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "minior-showers-eta-aquariids-2027",
+        "name": "Minior Showers: Eta Aquariids 2027",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+        "start": "2027-05-03T17:00:00.000",
+        "end": "2027-05-08T23:59:00.000",
+        "extraData": {
+            "event": {
+                "name": "Minior (Red Core), Minior (Orange Core), Minior (Yellow Core), Minior (Green Core), Minior (Blue Core), Minior (Indigo Core), Minior (Violet Core)",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased Stardust for catching Minior",
+                    "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "minior-showers-southern-delta-aquariids-2027",
+        "name": "Minior Showers: Southern Delta Aquariids 2027",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+        "start": "2027-07-28T17:00:00.000",
+        "end": "2027-08-02T23:59:00.000",
+        "extraData": {
+            "event": {
+                "name": "Minior (Red Core), Minior (Orange Core), Minior (Yellow Core), Minior (Green Core), Minior (Blue Core), Minior (Indigo Core), Minior (Violet Core)",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased Stardust for catching Minior",
+                    "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
+                ],
+                "graphic": []
+            }
+        }
+    },
+    {
+        "eventID": "minior-showers-perseids-2027",
+        "name": "Minior Showers: Perseids 2027",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/minior-showers-perseids-2027/",
+        "image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+        "start": "2027-08-10T17:00:00.000",
+        "end": "2027-08-15T23:59:00.000",
+        "extraData": {
+            "event": {
+                "name": "Minior (Red Core), Minior (Orange Core), Minior (Yellow Core), Minior (Green Core), Minior (Blue Core), Minior (Indigo Core), Minior (Violet Core)",
+                "canBeShiny": false,
+                "image": "",
+                "bonus": [
+                    "Increased Stardust for catching Minior",
+                    "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
+                ],
+                "graphic": []
+            }
+        }
+    }
+]
